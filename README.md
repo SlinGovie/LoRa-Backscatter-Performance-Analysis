@@ -12,13 +12,15 @@ If you find the code in this repository useful for your work, we kindly request 
 
 
 ```plaintext
-@article{lin2023lora,
-  author = {Lin, G. and Elzanaty, A. and Alouini, M.-S.},
-  title = {LoRa Backscatter Communications: Temporal, Spectral, and Error Performance Analysis},
-  journal = {IEEE Internet of Things Journal},
-  year = {2023},
-  doi = {10.1109/JIOT.2023.3268113}
-}
+@ARTICLE{10104086,
+  author={Lin, Ganghui and Elzanaty, Ahmed and Alouini, Mohamed-Slim},
+  journal={IEEE Internet of Things Journal}, 
+  title={LoRa Backscatter Communications: Temporal, Spectral, and Error Performance Analysis}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JIOT.2023.3268113}}
 ```
 
 Proper attribution is essential and greatly appreciated.
