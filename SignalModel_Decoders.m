@@ -1,3 +1,17 @@
+% =========================================================================
+% -- Script to generate LoRa backscatter signals and decoder/demodulator
+% =========================================================================
+
+% -- (c) 2023 Ganghui Lin, Ahmed Elzanaty, Mohamed-Slim Alouini
+
+% -- e-mail: ganghui.lin@kaust.edu.sa; a.elzanaty@surrey.ac.uk; slim.alouini@kaust.edu.sa
+
+% =========================================================================
+
+% G. Lin, A. Elzanaty, and M.-S. Alouini, "LoRa Backscatter Communications: Temporal, Spectral, and Error Performance Analysis,"
+% in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3268113.
+
+% =========================================================================
 %% 
 clc
 clear
