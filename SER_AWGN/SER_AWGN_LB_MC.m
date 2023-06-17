@@ -1,6 +1,6 @@
 % =========================================================================
 % -- Script to compute approximated average symbol error rate (SER) for
-% LoRa backscatter using Monte Carlo simulation
+% LoRa backscatter using Monte Carlo simulation in AWGN channel
 % =========================================================================
 
 % -- (c) 2023 Ganghui Lin, Ahmed Elzanaty, Mohamed-Slim Alouini

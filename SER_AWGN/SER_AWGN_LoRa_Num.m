@@ -1,5 +1,6 @@
 % =========================================================================
-% -- Script to compute exact average symbol error rate (SER) for LoRa
+% -- Script to compute exact average symbol error rate (SER) for LoRa in
+% AWGN channel
 % =========================================================================
 
 % -- (c) 2023 Ganghui Lin, Ahmed Elzanaty, Mohamed-Slim Alouini
