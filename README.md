@@ -4,7 +4,21 @@ Welcome to the code repository for the paper titled "LoRa Backscatter Communicat
 
 ## Code Organization
 
-The code is currently being organized and will be uploaded soon. We are working diligently to make it available for public use. Please check back shortly for updates.
+This code repository has four main parts:
+- Signal model and decoders of LoRa backscatter
+- Power spectrum density (PSD) of LoRa backscatter waveforms
+- Symbol error rate (SER) of LoRa backscatter in AWGN channels
+- Symbol error rate (SER) of LoRa backscatter in fading channels
+- Symbol error rate (SER) of LoRa backscatter in with water filling (currently being updated)
+
+## Environment
+
+- MATLAB: [link to MATLAB website](https://www.mathworks.com/products/matlab.html)
+- Julia: [link to Julia website](https://julialang.org/)
+
+### Required packages for Julia:
+- FastGaussQuadrature
+- MAT
 
 ## Citing the Paper
 
