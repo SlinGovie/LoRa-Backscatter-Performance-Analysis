@@ -31,10 +31,11 @@ If you find the code in this repository useful for your work, we kindly request 
   journal={IEEE Internet of Things Journal}, 
   title={LoRa Backscatter Communications: Temporal, Spectral, and Error Performance Analysis}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={10},
+  number={18},
+  pages={16412-16426},
   doi={10.1109/JIOT.2023.3268113}}
+
 ```
 
 Proper attribution is essential and greatly appreciated.
