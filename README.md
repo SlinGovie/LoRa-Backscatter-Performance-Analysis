@@ -1,6 +1,6 @@
 # LoRa Backscatter Communications Code Repository
 
-Welcome to the code repository for the paper titled "LoRa Backscatter Communications: Temporal, Spectral, and Error Performance Analysis" early accessed in the IEEE Internet of Things Journal: https://ieeexplore.ieee.org/abstract/document/10104086.
+Welcome to the code repository for the paper titled "LoRa Backscatter Communications: Temporal, Spectral, and Error Performance Analysis," published in the IEEE Internet of Things Journal: https://ieeexplore.ieee.org/abstract/document/10104086.
 
 ## Code Organization
 
